@@ -1,0 +1,37 @@
+
+
+
+
+
+
+
+
+
+
+.parent2 {
+    display: flex;
+}
+.parent2 img {
+    width: 400px;
+    padding:  20px;
+
+}
+
+.parent2 p {
+    
+    align-self: flex-start;
+    
+    
+}
+
+.parent2 p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: white;
+}
+
+h1 {
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(216, 190, 73);
+}
